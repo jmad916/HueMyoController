@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jmadden/Downloads/HelloworldMyo/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="/Users/jmadden/Downloads/HelloworldMyo/app/build/intermediates/pre-dexed/debug/classes-eaf7e3b3d841d81299f6916b9021080ae05946c0.jar" />
+    </item>
+    <item
+        jar="/Users/jmadden/Downloads/HelloworldMyo/app/build/intermediates/exploded-aar/com.thalmic/myosdk/0.10.0/jars/libs/native-libs.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="/Users/jmadden/Downloads/HelloworldMyo/app/build/intermediates/pre-dexed/debug/native-libs-3e2b07d1582d3ebf66f85d21a79d3d42b53c1871.jar" />
+    </item>
+
+</items>
